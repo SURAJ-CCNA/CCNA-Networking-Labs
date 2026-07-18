@@ -48,7 +48,7 @@ Building hands-on labs using **real Cisco equipment** from my college network la
 
 | Lab | Topic | Status | Details |
 |-----|-------|--------|---------|
-| Lab 0 | Basic 3 Subnets & Connectivity | ✅ Complete | [View →](./Lab-0-Basic-3-Subnets) |
+| Lab 0 | Multiple host & configuration | ✅ Complete | [View →](./Lab-0-Basic-3-Subnets) |
 | Lab 1 | Static Routing (3 Routers) | ✅ Complete | [View →](./Lab-1-Static-Routing) |
 | Lab 2 | VLAN & Inter-VLAN Routing | ✅ Complete | [View →](./Lab-2-VLAN-Routing) |
 | Lab 3 | OSPF Dynamic Routing | ✅ Complete | [View →](./Lab-3-OSPF-Routing) |
