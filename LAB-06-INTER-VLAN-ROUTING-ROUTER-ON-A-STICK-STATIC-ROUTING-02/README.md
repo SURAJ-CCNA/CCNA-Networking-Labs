@@ -1,4 +1,4 @@
-# InterVLAN Routing – Static Routing 02
+# INTER-VLAN-ROUTING-ROUTER-ON-A-STICK-STATIC-ROUTING-02
 
 ## Overview
 
