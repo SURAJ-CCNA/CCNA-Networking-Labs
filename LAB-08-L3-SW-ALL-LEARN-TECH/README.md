@@ -1,5 +1,4 @@
-L3 SWITCHING LAB: INTER-VLAN ROUTING WITH STATIC ROUTES
-================================================================================
+L3 SWITCHING LAB: INTER-VLAN ROUTING WITH STATIC ROUTER
 
 LAB OVERVIEW
 ================================================================================
