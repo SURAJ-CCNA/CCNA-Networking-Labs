@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Suraj Bedekar
 
-**CCNA Aspirant | (CCNP SCOR) | Network Labs Builder | BTech Final Year**
+**CCNA Trained | (CCNP SCOR) | Network Labs Builder | BTech Final Year**
 
 ---
 
