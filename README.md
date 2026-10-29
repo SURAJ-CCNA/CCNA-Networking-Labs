@@ -1,12 +1,12 @@
 # 👋 Hi, I'm Suraj Bedekar
 
-**CCNA Aspirant | Network Labs Builder | BTech Final Year**
+**CCNA Aspirant | (CCNP SCOR) | Network Labs Builder | BTech Final Year**
 
 ---
 
 ## 🎯 About Me
 
-I'm a **BTech final year student** passionate about networking. Currently pursuing my **CCNA (200-301) certification** through formal training at **RST Forums Mumbai** while building real-world network labs on college Cisco equipment.
+I'm a **BTech final year student** passionate about networking & Network Security. Completed my **CCNA (200-301) certification** through formal training at **RST Forums Mumbai** while building real-world network labs on college Cisco equipment. And From DEC i will Go For CCNP SECURITY.
 
 **Goal:** Become a certified CCNA network engineer and transition into a networking career.
 
@@ -20,7 +20,7 @@ I'm a **BTech final year student** passionate about networking. Currently pursui
 
 ## 🛠️ Current Skills (Learning)
 
-**Networking Fundamentals (In Progress):**
+**Networking Fundamentals :**
 - IPv4/IPv6 Subnetting & Addressing
 - Routing (Static routing, OSPF basics)
 - Switching (VLANs, Trunking, STP)
@@ -77,7 +77,7 @@ Every lab includes:
 **CCNA Training** - 200-301
 - Institute: RST Forums, Mumbai
 - Training Period: August 2026 - September 2026
-- Status: **In Progress**
+- Status: **Completed**
 - Expected Exam: February 2027
 - Study Method: Classroom + self-study + hands-on labs
 
@@ -113,6 +113,7 @@ Through building these labs:
 ✅ Real-world network design
 ✅ Problem-solving skills
 ✅ Documentation & testing
+✅ Understanding Of Network Security
 
 ---
 
